@@ -27,14 +27,14 @@
 <p align="center"><img src="https://i.imgur.com/KRcY2dR.png" height="50%" width="50%" alt="image"/>
 
 <p>6. Configure Users (customers) - To do this from the Agent Panel > Users > Add New. Created two new users; Karen and Ken.</p>
-<p align="center"><img src="https://i.imgur.com/GfbxBmi.png" height="50%" width="50%" alt="image"/>
+<p align="center"><img src="https://i.imgur.com/MgXJOOF.png" height="50%" width="50%" alt="image"/>
 
 <p>7. Configure SLA(Service Level Agreement) - To do this, from the Admin Panel > Manage > SLA
 <p>Sev-A (Grace Period: 1 hour, Schedule: 24/7)</p>
 <p>Sev-B (Grace Period: 4 hours, Schedule: 24/7)</p>
 <p>Sev-C (Grace Period: 8 hours, Business Hours)</p>
 </p>
-<p align="center"><img src="https://i.imgur.com/PSueC2P.png" height="50%" width="50%" alt="image"/>
+<p align="center"><img src="https://imgur.com/a/a0tzx68" height="50%" width="50%" alt="image"/>
 
 <p>8. Configure Help Topics (For when users create a ticket) -  To do this from Admin Panel > Manage > Help Topics</p>
 <p>Business Critical Outage</p>
