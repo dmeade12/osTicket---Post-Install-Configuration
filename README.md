@@ -34,7 +34,7 @@
 <p>Sev-B (Grace Period: 4 hours, Schedule: 24/7)</p>
 <p>Sev-C (Grace Period: 8 hours, Business Hours)</p>
 </p>
-<p align="center"><img src="https://imgur.com/a/a0tzx68" height="50%" width="50%" alt="image"/>
+<p align="center"><img src="https://i.imgur.com/0jxV4jF.png" height="50%" width="50%" alt="image"/>
 
 <p>8. Configure Help Topics (For when users create a ticket) -  To do this from Admin Panel > Manage > Help Topics</p>
 <p>Business Critical Outage</p>
@@ -43,4 +43,4 @@
 <p>Password Reset</p>
 <p>Other</p>
 </p>
-<p align="center"><img src="https://i.imgur.com/95CsOYi.png" height="50%" width="50%" alt="image"/>
+<p align="center"><img src="https://i.imgur.com/AfNDuBv.png" height="50%" width="50%" alt="image"/>
